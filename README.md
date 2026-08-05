@@ -1,5 +1,5 @@
-# Nik — Senior Unity Developer
+# Nik — Unity Developer
 
-Static portfolio hosted with GitHub Pages.
+Двуязычное портфолио Unity-разработчика на GitHub Pages.
 
-The site is intentionally dependency-free: GitHub Pages serves the files in this repository directly.
+Russian is the default language; visitors can switch to English using the RU / EN control in the header.
