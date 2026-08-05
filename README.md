@@ -1,5 +1,7 @@
-# Nik — Unity Developer
+# Nik — Unity Developer Portfolio
 
-Двуязычное портфолио Unity-разработчика на GitHub Pages.
+Russian-first bilingual portfolio with project case studies for TFS, STACK, and Dead Hook.
 
-Russian is the default language; visitors can switch to English using the RU / EN control in the header.
+- Public site: https://niksolo51.github.io/
+- Russian is the default language.
+- RU / EN preference is saved locally in the visitor's browser.
